@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**LuizFelipeHenriques/LuizFelipeHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome! 📁
 
-Here are some ideas to get you started:
+<p >
+  
+   <b> Electrical Engineer ⚡
+  </br>
+  </br>
+  </br>
+  <i>Currently living in Manaus - 🇧🇷</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**
+
+- Internet of Things
+- Web Development
+
+**Programming Languages**
+
+- JAVA
+- Python
+- C++
+
+#
+<a href="https://www.linkedin.com/in/luiz-felipe-henriques-175395140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
